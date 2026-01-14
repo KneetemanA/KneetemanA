@@ -10,7 +10,8 @@ Tengo una fuerte orientación a resultados, visión estratégica y mentalidad de
 ___________________
 
 💻 EXPERIENCIA PROFESIONAL
-#Digital Manager & Odoo Functional Administrator. Equipavic S.R.L | 08/2025 – Actualidad.
+
+# Digital Manager & Odoo Functional Administrator. Equipavic S.R.L | 08/2025 – Actualidad.
 - Responsable de la gestión integral del ecosistema digital de la empresa.
 - Desarrollo, renovación y mantenimiento de los sitios web corporativos Bourlot y Radiant Brooders.
 - Creación de nuevas secciones, productos, contenidos e identidad visual.
