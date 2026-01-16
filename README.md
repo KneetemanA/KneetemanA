@@ -1,7 +1,7 @@
 KNEETEMAN ARIANA
 
 👩🏻 SOBRE MI
-___________________
+
 
 Soy Desarrolladora Web Full Stack y Digital Manager, con experiencia en la gestión integral de ecosistemas digitales: sitios web corporativos, sistemas de gestión empresarial (Odoo) y comunicación digital.
 Me especializo en conectar tecnología, procesos y comunicación, optimizando flujos internos, automatizando tareas repetitivas y mejorando la presencia digital de las marcas. Actúo como nexo entre equipos técnicos, partners tecnológicos y usuarios finales.
