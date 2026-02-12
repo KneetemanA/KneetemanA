@@ -9,8 +9,12 @@ Tengo una fuerte orientación a resultados, visión estratégica y mentalidad de
 
 # 🛠️  SKILLS
 ### Lenguajes y Tecnología
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mysql,sqlite,react,html,css,npm,tailwind,bootstrap,github,wordpress,postman,vscode,figma,instagram,ps,&perline=6" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mysql,sqlite,react,html,css,npm,tailwind,bootstrap,github,wordpress,postman,vscode,figma,instagram,ps,&perline=6)](https://skillicons.dev)
 
 # ✨ APTITUDES
 
