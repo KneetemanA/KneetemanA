@@ -7,12 +7,19 @@ Me especializo en conectar tecnología, procesos y comunicación, optimizando fl
 Tengo una fuerte orientación a resultados, visión estratégica y mentalidad de mejora continua, combinando habilidades técnicas con una mirada práctica del negocio.
 
 
-# 🛠️  Skills
+# 🛠️  SKILLS
 ### Lenguajes y Tecnología
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mysql,sqlite,react,html,css,npm,tailwind,bootstrap,github,wordpress,postman,vscode,figma,instagram,ps,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mysql,sqlite,react,html,css,npm,tailwind,bootstrap,github,wordpress,postman,vscode,figma,instagram,ps,&perline=6)](https://skillicons.dev)
 
-___________________
+# ✨ APTITUDES
+
+- 🧩 Resolución de problemas
+- 🔄 Adaptabilidad y flexibilidad
+- 🚀 Mentalidad emprendedora
+- 🌐 Visión estratégica
+- 📚 Aprendizaje continuo
+- 🎯 Orientación a resultados
 
 # 💻 EXPERIENCIA PROFESIONAL
 
@@ -56,7 +63,3 @@ Implementación de:
 - Autenticación de usuarios
 - Gestión de inventarios
 - Arquitectura orientada a escalabilidad y buenas prácticas.
-
-  ___________________
-
-  
