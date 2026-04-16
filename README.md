@@ -47,17 +47,18 @@ Administración funcional de Odoo:
 - Gestión integral de redes sociales: estrategia, creación, edición y publicación de contenido.
 - Planificación de contenido digital a mediano plazo.
 
-### Freelance | Full Stack Developer | 04/2025 – 08/2025
-    Desarrollo de una aplicación web para una empresa de remises en la ciudad de Gualeguaychú.
-    Implementación de funcionalidades orientadas a la gestión operativa y experiencia de usuario.
-    Trabajo independiente con foco en análisis de requerimientos y soluciones escalables.
+### Freelance | Full Stack Developer | 04/2025 – actualidad
+    ✅ Desarrollamos de una aplicación web para una empresa de remises en la ciudad de Gualeguaychú.
+    ✅ Implementación de funcionalidades orientadas a la gestión operativa y experiencia de usuario.
+    ✅ Trabajo independiente con foco en análisis de requerimientos y soluciones escalables.
+    ✅ Stack: TypeScript, React (Vite), Node.js, Fastify, Prisma ORM, PostgreSQL, Socket.io, JWT, Bcrypt, Zod, Axios, Bootstrap, Leaflet, Dotenv.
 
 ### Freelance | Full Stack Developer | 10/2024 – 11/2024
     Desarrollo del sitio web Cristales Dominico
 🔗 https://cristalesdominico.com.ar/
-- Tecnologías utilizadas: React, Bootstrap y Express.
-- Optimización del tiempo de carga del sitio en un 40%.
-- Implementación de un sistema de gestión de productos y mejora de la experiencia de usuario.
+✅ Tecnologías utilizadas: React, Bootstrap y Express.
+✅ Optimización del tiempo de carga del sitio en un 40%.
+✅ Implementación de un sistema de gestión de productos y mejora de la experiencia de usuario.
 
  # PROYECTO DESTACADO
  ### E-Commerce “Como en Casa”
