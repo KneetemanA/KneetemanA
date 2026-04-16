@@ -56,9 +56,10 @@ Administración funcional de Odoo:
 ### Freelance | Full Stack Developer | 10/2024 – 11/2024
     Desarrollo del sitio web Cristales Dominico
 🔗 https://cristalesdominico.com.ar/
-✅ Tecnologías utilizadas: React, Bootstrap y Express.
-✅ Optimización del tiempo de carga del sitio en un 40%.
-✅ Implementación de un sistema de gestión de productos y mejora de la experiencia de usuario.
+
+    ✅ Tecnologías utilizadas: React, Bootstrap y Express.
+    ✅ Optimización del tiempo de carga del sitio en un 40%.
+    ✅ Implementación de un sistema de gestión de productos y mejora de la experiencia de usuario.
 
  # PROYECTO DESTACADO
  ### E-Commerce “Como en Casa”
