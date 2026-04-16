@@ -65,8 +65,9 @@ Administración funcional de Odoo:
  ### E-Commerce “Como en Casa”
 Proyecto final – Digital House
 Desarrollo de un e-commerce completo utilizando JavaScript, React, Node.js y MySQL.
-Implementación de:
-- Carrito de compra.
-- Autenticación de usuarios
-- Gestión de inventarios
-- Arquitectura orientada a escalabilidad y buenas prácticas.
+
+  Implementación de:
+    ✅ Carrito de compra.
+    ✅ Autenticación de usuarios
+    ✅ Gestión de inventarios
+    ✅ Arquitectura orientada a escalabilidad y buenas prácticas.
